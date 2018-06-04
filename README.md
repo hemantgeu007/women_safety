@@ -21,7 +21,7 @@ Hardware Specifications:
           
 
 Team Members: Kanika Ratra
-	      Hemant Singh Panwar
+	      Hemant Singh Pawnar
 	      Manav Goswami 
 	
   
