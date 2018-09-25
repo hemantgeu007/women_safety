@@ -8,16 +8,10 @@ This problem deals with designing a device which is the integration of multiple 
 Possible Solution: IOT/GPS based device.
 
 Hardware Specifications:
-•	GPS Modem
-•	Fingerprint Scanner
+•	GPS Modem/GSM Modem
 •	Buzzer
 •	LED
 •	PUSH Button
-•	Pulse Rate Detector
-
- Software Specifications:
-•	NOOBS(Net Out Of The Box Software)
-•	GNU/Linux Operating System
           
 
 Team Members: Kanika Ratra
